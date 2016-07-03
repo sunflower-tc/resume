@@ -7,7 +7,7 @@ html, body, .swiper-container, .swiper-slide {
     height: 100%;
     overflow: hidden;
 
-    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '΢���ź�', Arial, sans-serif;
+    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', 'Î¢ÈíÑÅºÚ', Arial, sans-serif;
 
 }
 /*--music start--*/
@@ -469,7 +469,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 .page5 i{
     position: absolute;
-    bottom: 0.7rem;
+    bottom: 4rem;
     width:0.9rem;
     height:0.9rem;
     display: block;
@@ -489,7 +489,7 @@ opacity: 0;
      font-style: normal;
     position: absolute;
     font-size:0.13rem;
-    bottom: 0.48rem;
+    bottom: 5rem;
     opacity: 0;
 }
 .page5 .em1{
