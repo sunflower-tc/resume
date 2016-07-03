@@ -469,7 +469,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 .page5 i{
     position: absolute;
-    bottom: 4rem;
+   top:4rem;
     width:0.9rem;
     height:0.9rem;
     display: block;
@@ -489,7 +489,7 @@ opacity: 0;
      font-style: normal;
     position: absolute;
     font-size:0.13rem;
-    bottom: 5rem;
+    top: 5rem;
     opacity: 0;
 }
 .page5 .em1{
